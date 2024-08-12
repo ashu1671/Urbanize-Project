@@ -1,0 +1,313 @@
+[
+    {
+      "id": "a",
+      "name": "Women's Salon & Spa",
+      "image": "s1.png",
+      "description": "Expert salon and spa services for women, offering a wide range of beauty treatments at your convenience.",
+      "price": "₹499 onwards"
+    },
+    {
+      "id": "b",
+      "name": "Men's Salon & Spa",
+      "image": "s2.png",
+      "description": "Professional salon and spa services for men, including grooming, styling, and more.",
+      "price": "₹199 onwards"
+    },
+    {
+      "id": "c",
+      "name": "Print Store",
+      "image": "s3.png",
+      "description": "High-quality printing services for all your document needs, from photos to professional reports.",
+      "price": "₹49 onwards"
+    },
+    {
+      "id": "d",
+      "name": "AC Repairing & Service",
+      "image": "s4.jpeg",
+      "description": "Reliable AC repair and maintenance services to keep your home cool and comfortable.",
+      "price": "₹499 onwards"
+    },
+    {
+      "id": "e",
+      "name": "Cleaning and Pest Control",
+      "image": "s5.png",
+      "description": "Comprehensive cleaning and pest control services to ensure a hygienic and safe environment.",
+      "price": "₹399 onwards"
+    },
+    {
+      "id": "f",
+      "name": "Electrician and Plumber",
+      "image": "s6.png",
+      "description": "Skilled electricians and plumbers for all your household repair and installation needs.",
+      "price": "₹299 onwards"
+    },
+    {
+      "id": "g",
+      "name": "Turf Booking",
+      "image": "s7.png",
+      "description": "Easy turf booking for sports and events, offering quality facilities at competitive rates.",
+      "price": "₹499 onwards"
+    },
+    {
+      "id": "h",
+      "name": "Painting and Water Proofing",
+      "image": "s8.png",
+      "description": "Professional painting and waterproofing services to protect and beautify your space.",
+      "price": "₹499 onwards"
+    },
+    {
+      "id": "i",
+      "name": "Wall Panel",
+      "image": "s8.png",
+      "description": "Elegant and durable wall panels to enhance the aesthetics of your interiors.",
+      "price": "₹399 onwards"
+    },
+
+    
+      {
+        "id": "j",
+        "name": "Washing Machine Repair",
+        "image": "qh1.jpeg",
+        "description": "Professional washing machine repair services to keep your laundry running smoothly.",
+        "price": "₹499 onwards"
+      },
+      {
+        "id": "k",
+        "name": "TV Repair",
+        "image": "qh2.jpeg",
+        "description": "Expert TV repair services to restore your entertainment experience.",
+        "price": "₹199 onwards"
+      },
+      {
+        "id": "l",
+        "name": "Wall Hanging",
+        "image": "qh3.jpeg",
+        "description": "Efficient wall hanging services to safely and securely display your decorations.",
+        "price": "₹49 onwards"
+      },
+      {
+        "id": "m",
+        "name": "Switchboard Repair",
+        "image": "qh4.jpeg",
+        "description": "Reliable switchboard repair services for safe and uninterrupted power supply.",
+        "price": "₹399 onwards"
+      },
+      {
+        "id": "n",
+        "name": "Fan Repair",
+        "image": "1h5.jpeg",
+        "description": "Fast and affordable fan repair services to keep your home cool and comfortable.",
+        "price": "₹499 onwards"
+      },
+      {
+        "id": "o",
+        "name": "AC Cleaning",
+        "image": "qh6.jpeg",
+        "description": "Thorough AC cleaning services to ensure optimal cooling and air quality.",
+        "price": "₹299 onwards"
+      },
+
+
+        {
+            "id": "p",
+            "name": "Top Load Repair",
+            "image": "10.jpeg",
+            "price": "499"
+        },
+        {
+            "id": "q",
+            "name": "TV Repairing",
+            "image": "11.jpeg",
+            "price": "199"
+        },
+        {
+            "id": "r",
+            "name": "Kids Haircut (Boys)",
+            "image": "12.jpeg",
+            "price": "99"
+        },
+        {
+            "id": "s",
+            "name": "Door/Door Knob Repair",
+            "image": "13.jpeg",
+            "price": "99"
+        },
+        {
+            "id": "t",
+            "name": "Wifi Installation",
+            "image": "14.jpeg",
+            "price": "299"
+        },
+        {
+            "id": "u",
+            "name": "Sofa Cleaning",
+            "image": "mp1.jpeg",
+            "price": "299"
+        },
+        {
+            "id": "v",
+            "name": "Print Store",
+            "image": "s3.png",
+            "price": "49"
+        },
+        {
+            "id": "w",
+            "name": "Turf Booking",
+            "image": "s4.jpg",
+            "price": "499"
+        },
+        {
+            "id": "x",
+            "name": "Manicure",
+            "image": "sw1.jpeg",
+            "price": "&#8377; 999"
+        },
+        {
+            "id": "y",
+            "name": "Pedicure",
+            "image": "sw6.jpeg",
+            "price": "&#8377; 999"
+        },
+        {
+            "id": "z",
+            "name": "Waxing",
+            "image": "sw7.jpeg",
+            "price": "&#8377; 999"
+        },
+        {
+            "id": "aa",
+            "name": "Facial and Cleanup",
+            "image": "sw2.jpeg",
+            "price": "&#8377; 999"
+        },
+        {
+            "id": "ab",
+            "name": "Bleach & Detan",
+            "image": "sw3.jpeg",
+            "price": "&#8377; 999"
+        },
+        {
+            "id": "ac",
+            "name": "Hair care",
+            "image": "sw4.jpeg",
+            "price": "&#8377; 999"
+        },
+        {
+            "id": "ad",
+            "name": "Threading & Face-Waxing",
+            "image": "sw5.jpeg",
+            "price": "&#8377; 999"
+        },
+
+        
+          {
+              "id": "ae",
+              "name": "Haircut & Beard Grooming",
+              "image": "sm1.jpeg",
+              "price": "₨ 899"
+          },
+          {
+              "id": "af",
+              "name": "Pedicure & Manicure",
+              "image": "sm2.jpeg",
+              "price": "₨ 899"
+          },
+          {
+              "id": "ag",
+              "name": "Hair Color & Hair Spa",
+              "image": "sm3.jpeg",
+              "price": "₨ 899"
+          },
+          {
+              "id": "ah",
+              "name": "Facial & Cleanup",
+              "image": "sm4.jpeg",
+              "price": "₨ 899"
+          },
+          {
+              "id": "ai",
+              "name": "Stress Relief",
+              "image": "spw1.jpeg",
+              "price": "₨ 899"
+          },
+          {
+              "id": "aj",
+              "name": "Pain Relief",
+              "image": "spw2.jpeg",
+              "price": "₨ 899"
+          },
+          {
+              "id": "ak",
+              "name": "Natural Skincare",
+              "image": "spw3.jpeg",
+              "price": "₨ 899"
+          },
+          {
+              "id": "al",
+              "name": "Deep Tissue Massage",
+              "image": "spw4.jp3g",
+              "price": "₨ 899"
+          },
+          {
+              "id": "am",
+              "name": "Swedish Massage",
+              "image":"spw6.jpg",
+              "price": "₨ 899"
+          },
+          {
+              "id": "an",
+              "name": "Stress Relief ",
+              "image": "sm1.jpeg",
+              "price": "₨ 899"
+          },
+          {
+              "id": "ao",
+              "name": "Pain Relief ",
+              "image": "sm2.jpeg",
+              "price": "₨ 899"
+          },
+          {
+              "id": "ap",
+              "name": "Post Workout Massage",
+              "image": "sm3.jpeg",
+              "price": "₨ 899"
+          },
+          {
+              "id": "aq",
+              "name": "Blow-dry In | Curl/Out Curl",
+              "image": "101.png",
+              "price": "320"
+          },
+          {
+              "id": "ar",
+              "name": "Blow-dry | Straight & Smooth",
+              "image": "102.jpeg",
+              "price": "320"
+          },
+          {
+              "id": "as",
+              "name": "Curl & Waves",
+              "image": "103.png",
+              "price": "429"
+          },
+          {
+              "id": "at",
+              "name": "Straightening",
+              "image": "104.png",
+              "price": "429"
+          },
+          {
+              "id": "au",
+              "name": "Hair Trim",
+              "image": "105.jpeg",
+              "price": "249"
+          }
+      
+      
+    
+    
+    
+    
+
+  ]
+  
